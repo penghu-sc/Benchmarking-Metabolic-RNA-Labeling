@@ -7,7 +7,7 @@
 Source code of the manuscript **Benchmarking Metabolic RNA Labeling Techniques for High-Throughput Single-Cell RNA Sequencing** 
 
 # Content
-
+- run_dynast.sh: source code for generating Raw labeled and unlabeled matrix
 - Figure2-Evaluation-of-seven-methods.ipynb: source code for generating Figures 2 and Figures S2
 - Figure3-5.5hpf-embryo-singlecell-analysis.ipynb: source code for generating Figure 3B,3C,S4A,S4B,S4D,S5C 
 - Figure3-gene-proportion-of-Z-MZ-M.ipynb: source code for generating Figure 3D,3E,S4C
