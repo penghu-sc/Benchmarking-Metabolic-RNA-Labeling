@@ -8,9 +8,9 @@ Source code of the manuscript **Benchmarking Metabolic RNA Labeling Techniques f
 
 # Content
 - run_dynast.sh: source code for generating Raw labeled and unlabeled matrix
-- Figure2-Evaluation-of-seven-methods.ipynb: source code for generating Figures 2 and Figures S2
-- Figure3-5.5hpf-embryo-singlecell-analysis.ipynb: source code for generating Figure 3b,3c,S4a,S4b,S4d,S5c 
-- Figure3-gene-proportion-of-Z-MZ-M.ipynb: source code for generating Figure 3c,3c,S4c
+- Figure2&FigureS2&FigureS3-Evaluation-of-seven-methods: source code for generating Figures 2, Figures S2 and Figures S3
+- Figure3&FigureS4-gene-proportion-of-Z-MZ-M: source code for generating Figure 3d,3e,S4a,S4b,S4c,S4d
+- Figure3&FigureS5-5.5hpf-embryo-singlecell-analysis.ipynb: source code for generating Figure 3b,3c,S5a,S5b,S5c
 - Figure4-Comparison-between-Drop-seq-and-MGI-C4.ipynb: source code for generating Figure 4
 
 
