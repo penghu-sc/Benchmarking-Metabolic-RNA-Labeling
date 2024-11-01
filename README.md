@@ -9,8 +9,8 @@ Source code of the manuscript **Benchmarking Metabolic RNA Labeling Techniques f
 # Content
 - run_dynast.sh: source code for generating Raw labeled and unlabeled matrix
 - Figure2-Evaluation-of-seven-methods.ipynb: source code for generating Figures 2 and Figures S2
-- Figure3-5.5hpf-embryo-singlecell-analysis.ipynb: source code for generating Figure 3B,3C,S4A,S4B,S4D,S5C 
-- Figure3-gene-proportion-of-Z-MZ-M.ipynb: source code for generating Figure 3D,3E,S4C
+- Figure3-5.5hpf-embryo-singlecell-analysis.ipynb: source code for generating Figure 3b,3c,S4a,S4b,S4d,S5c 
+- Figure3-gene-proportion-of-Z-MZ-M.ipynb: source code for generating Figure 3c,3c,S4c
 - Figure4-Comparison-between-Drop-seq-and-MGI-C4.ipynb: source code for generating Figure 4
 
 
@@ -22,7 +22,7 @@ Raw data can be downloaded from [link](https://dataview.ncbi.nlm.nih.gov/object/
 
 If you found this code useful, please cite the following paper:
 
- #Waiting for supplement
+Xiaowen Zhang, Mingjian Peng, Jianghao Zhu, Xue Zhai, He Jiao, Zhichao Wu, Songqian Huang, Mingli Liu, Wenhao Li, Wenyi Yang, Liangbiao Chen, Peng Hu "Benchmarking Metabolic RNA Labeling Techniques for High-Throughput Single-Cell RNA Sequencing"
 
 # Contact
 
