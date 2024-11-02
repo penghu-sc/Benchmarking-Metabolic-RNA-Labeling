@@ -14,7 +14,7 @@ Source code of the manuscript **Benchmarking Metabolic RNA Labeling Techniques f
 - Figure4-Comparison-between-Drop-seq-and-MGI-C4.ipynb: source code for generating Figure 4
 
 
-Raw data can be downloaded from [link](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1149934?reviewer=ei6sqavblchr55b0bsotrbsvg6)
+
 
 # Reference
 
